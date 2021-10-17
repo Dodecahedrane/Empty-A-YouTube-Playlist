@@ -1,4 +1,4 @@
-# Empty-A-YouTube-Playlist
+# Empty A YouTube Playlist
 
 ## Description
 Use this bit of JavaScript to remove all the videos from a YouTube playlist (usually the watch later, as this cant be deleted and recreated anew)

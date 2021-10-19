@@ -7,5 +7,5 @@ setInterval(function () {
     XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
     null
   );
-  rmv.snapshotItem(0).click(); 
-}, 350);
+  rmv.snapshotItem(0).click();
+}, 1000);
